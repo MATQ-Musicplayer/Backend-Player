@@ -1,0 +1,33 @@
+{
+  "name": "backend-player",
+  "version": "1.0.0",
+  "description": "Server for our music player",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MATQ-Musicplayer/Backend-Player.git"
+  },
+  "author": "Marvin, Quan, Ahmad, Timur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MATQ-Musicplayer/Backend-Player/issues"
+  },
+  "homepage": "https://github.com/MATQ-Musicplayer/Backend-Player#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1"
+  }
+}
