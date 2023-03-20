@@ -23,7 +23,64 @@
         "album": "The Marshall Mathers LP",
         "image": "https://m.media-amazon.com/images/M/MV5BNGI3NzkwZTctZGRmYi00N2Y4LWFjMDktZmQyZWEzNDY4YzUyXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
         "src": " http://localhost:8080/src/music/eminem-stan-long-version-ft-dido.mp3",
-        "genre": "nu metal",
+        "genre": "hip-hop",
         "year": 2000
+    },
+    {
+        "title": "Довод",
+        "artist": "Truwer & Ulukmanapo & Santiz & Andy Panda",
+        "album": "Almaz",
+        "image": "https://i1.sndcdn.com/artworks-UbzfPKk8QPQC4ADL-vIJxog-t500x500.png",
+        "src": " http://localhost:8080/music/truwer-ulukmanapo-santiz-andy-panda-dovod-l-music-2022.mp3",
+        "genre": "hip-hop",
+        "year": 2022
+    },
+    {
+        "title": "Memories (prod. Almaz)",
+        "artist": "Scriptonite & Rita Ora",
+        "album": "Almaz",
+        "image": "https://sun9-71.userapi.com/impg/b09xTv2WaAgvKy7H3vNYKMeY3xpNzMhvFukBlw/SnxgzmNY0jw.jpg?size=1280x1280&quality=96&sign=5e7361b1153db91cb8e451a8161e4eaa&c_uniq_tag=-oWeQQMIlovMKTcKnV8EIEdgJ8TcHwPvj9B9JdmA2Ps&type=album",
+        "src": " http://localhost:8080/music/skriptonit-rita-ora-memories-prod-almaz.mp3",
+        "genre": "pop",
+        "year": 2022
+    },
+    {
+        "title": "Starboy",
+        "artist": "The Weeknd ft. Daft Punk",
+        "album": "Starboy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Weeknd_-_Starboy_%28single%29.jpg",
+        "src": " http://localhost:8080/music/the-weeknd-starboy-ft-daft-punk-official-video.mp3",
+        "genre": "pop",
+        "year": 2016
+    },
+    {
+        "title": "Anywhere",
+        "artist": "Rita Ora",
+        "album": "Phoenix",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/Rita_Ora_Phoenix_cover.png",
+        "src": " http://localhost:8080/music/rita-ora-anywhere-official-video.mp3",
+        "genre": "pop",
+        "year": 2017
+    },
+    {
+        "title": "Smells like teen spirit",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71DQrKpImPL._SL1400_.jpg",
+        "src": " http://localhost:8080/music/nirvana-smells-like-teen-spirit-official-music-video.mp3",
+        "genre": "grunge",
+        "year": 1991
+    },
+    {
+        "title": "A Beautiful Lie",
+        "artist": "30 Seconds to Mars",
+        "album": "A Beautiful Lie",
+        "image": "https://s3.amazonaws.com/images.imvdb.com/video/250467360524-30-seconds-to-mars-a-beautiful-lie_music_video_ov.jpg",
+        "src": " http://localhost:8080/music/30-seconds-to-mars-a-beautiful-lie.mp3",
+        "genre": "rock",
+        "year": 2005
     }
 ]
+
+
+
